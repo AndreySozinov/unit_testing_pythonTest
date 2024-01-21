@@ -19,3 +19,5 @@
 
 Отчет SonarLint о коде тестов
 ![sonar](img/image3.jpg)
+
+Отчет о покрытии тестами в PyCharm Community сделать не могу.
